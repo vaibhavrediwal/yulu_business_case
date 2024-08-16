@@ -1,4 +1,4 @@
-# yulu_demand_analysis
+# Yulu Business Case
 About Yulu
 
 Yulu is India’s leading micro-mobility service provider, offering unique vehicles for daily commuting. Launched with a mission to eliminate traffic congestion in India, Yulu provides a safe and sustainable commute solution through a user-friendly mobile app. The service enables shared, solo, and eco-friendly commuting, with Yulu zones strategically located at metro stations, bus stands, office spaces, residential areas, and corporate offices. These locations ensure smooth, affordable, and convenient first and last-mile connectivity.
